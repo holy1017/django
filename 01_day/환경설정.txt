@@ -6,15 +6,19 @@
 1. 프로그램 설치
 
  가. jdk 설치
+    JAVA_HOME=C:\Program Files\Java\jdk1.8.0_321
+    PATH=C:\Program Files\Java\jdk1.8.0_321\bin
  
  나. eclipse 설치
- 
+    utf-8 인코딩 변경
+    PyDev 플러그인 설치
+    
  다. python 설치
- 
+     add Path 체크 
+     
  라. django 설치
     pip install django==3.1.1
     
- 
 2. eclipse에 pydev 플러그인 설정
 
 3. eclipse에서 PyDev Django Project 생성
