@@ -1,0 +1,20 @@
+
+이름: 인경열 강사
+이메일:  inky4832@daum.net
+
+
+1. 프로그램 설치
+
+ 가. jdk 설치
+ 
+ 나. eclipse 설치
+ 
+ 다. python 설치
+ 
+ 라. django 설치
+    pip install django==3.1.1
+    
+ 
+2. eclipse에 pydev 플러그인 설정
+
+3. eclipse에서 PyDev Django Project 생성후 실습
