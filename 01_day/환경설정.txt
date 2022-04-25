@@ -17,4 +17,6 @@
  
 2. eclipse에 pydev 플러그인 설정
 
-3. eclipse에서 PyDev Django Project 생성후 실습
+3. eclipse에서 PyDev Django Project 생성
+
+4. 생성된 프로젝트내에서 개별적인 django application 생성
